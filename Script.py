@@ -5,7 +5,7 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
+   ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Lucy_Filter_bot>𝐋ᴜᴄʏ</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/pervrt_sensei'>мɪкєʏ</a> 
@@ -15,7 +15,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://Heroku.com'>Heroku</a> 
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
-     SOURCE_TXT = """
+    SOURCE_TXT = """
 <b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
