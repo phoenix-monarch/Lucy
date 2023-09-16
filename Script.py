@@ -22,6 +22,7 @@ Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛ�
 
 Where is source code? - <a href='https://t.me/pervrt_sensei'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
+
 Developer - <a href='https://t.me/pervrt_sensei'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 """
