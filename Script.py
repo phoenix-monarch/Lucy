@@ -449,31 +449,21 @@ BOT WORKING PROPERLY"""
 மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
 
     ENGLISH_INFO = """
-Hey <a href='tg://settings'>My Friend</a> 
+<b>──────「<a href=https://t.me/Team_Netflix/47> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
+Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
- Now you can earn money on Telegram too.
+Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
- You must have 1 group to earn money by telegram.
- If you have a group, you can earn money by adding our bot to your group.
+sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
- The more members you have in your group, the higher your income will be.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://dashboard.shareus.io/signup/lifetime/SMXVfg>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
- How and what to do
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Team_Netflix/47> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
- Step 1: Administer this Lucyy bot to your group
+➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
- Step 2: Add your website and API
-
- Exp: /shortlink shareus.io 4b392f8eb6ad711fbe58
-
- Add a video
-
- 👇 How to add 👇
-
- Exp: /set_tutorial video link
-
-Also your tutorial will be Added Your Group..."""
+Any Doubts or Not Connecting? Contact Me..."""
 
     TELUGU_INFO = """
 హే <a href='tg://settings'>My Friend</a> 
